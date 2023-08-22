@@ -1,5 +1,5 @@
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Code+kunkun;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Code+kunkun;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 <!--
 <div align="center">
     <img style="width: 300px; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Code-kunkun&show_icons=true&theme=radical&include_all_commits=true" alt="Code-kunkun's github stats">
